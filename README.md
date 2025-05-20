@@ -1,4 +1,6 @@
-# Omakub-MJ
+# Omakub-WSL-Arch (Omakub-MJ fork)
+
+*** Kibado do AkitaOnRails(https://github.com/akitaonrails) ora fazer rodar no meu WSL Arch Linux ***
 
 Turn a fresh Manjaro GNOME installation into a fully-configured, beautiful, and modern web development system by running a single command. That's the one-line pitch for Omakub-MJ. No need to write bespoke configs for every essential tool just to get started or to be up on all the latest command-line tools. Omakub-MJ is an opinionated take on what Linux can be at its best.
 
@@ -15,7 +17,7 @@ There is an Arch version for WSL2 on Windows, called [ArchWSL](https://github.co
 
 From a Terminal run:
 
-    wget -qO- https://raw.githubusercontent.com/akitaonrails/omakub-mj/stable/boot.sh | bash
+    wget -qO- https://raw.githubusercontent.com/osasko/omakub-wsl-arch/stable/boot.sh | bash
 
 And follow the instructions on screen. 
 
